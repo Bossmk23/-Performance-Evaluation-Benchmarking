@@ -1,1 +1,5 @@
-
+timestamp,dataset,model,accuracy,f1_score
+2025-07-29T22:54:10.876887,iris,random_forest,1.0,1.0
+2025-07-29T22:54:10.921009,iris,logistic_regression,1.0,1.0
+2025-07-29T22:54:11.450621,digits,random_forest,0.9722,0.9723
+2025-07-29T22:54:12.534121,digits,logistic_regression,0.9722,0.9723
