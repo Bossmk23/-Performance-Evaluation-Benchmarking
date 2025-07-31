@@ -1,0 +1,11 @@
+﻿input_id,true_label,predicted_label,confidence
+img001,cat,dog,0.75
+img002,dog,dog,0.92
+img003,cat,cat,0.88
+img004,dog,cat,0.65
+img005,cat,dog,0.45
+img006,dog,dog,0.95
+img007,cat,cat,0.8
+img008,dog,cat,0.6
+img009,cat,cat,0.9
+img010,dog,dog,0.85
