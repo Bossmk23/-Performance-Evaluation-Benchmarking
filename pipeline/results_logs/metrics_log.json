@@ -1,0 +1,30 @@
+[
+    {
+        "timestamp": "2025-07-29T22:54:10.876887",
+        "dataset": "iris",
+        "model": "random_forest",
+        "accuracy": 1.0,
+        "f1_score": 1.0
+    },
+    {
+        "timestamp": "2025-07-29T22:54:10.921009",
+        "dataset": "iris",
+        "model": "logistic_regression",
+        "accuracy": 1.0,
+        "f1_score": 1.0
+    },
+    {
+        "timestamp": "2025-07-29T22:54:11.450621",
+        "dataset": "digits",
+        "model": "random_forest",
+        "accuracy": 0.9722,
+        "f1_score": 0.9723
+    },
+    {
+        "timestamp": "2025-07-29T22:54:12.534121",
+        "dataset": "digits",
+        "model": "logistic_regression",
+        "accuracy": 0.9722,
+        "f1_score": 0.9723
+    }
+]
